@@ -17,6 +17,7 @@ a:hover {
 
 h1, h2 {
   /* Add font family here */
+ font-family: "Georgia", sans-serif;
 }
 
 img {
