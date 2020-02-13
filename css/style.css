@@ -1,12 +1,9 @@
-@import url('https://fonts.googleapis.com/css?family=Odibee+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Overpass&display=swap');
 
 body {
   color: #222;
   font-family: "Andale Mono", sans-serif;
   line-height: 1.25;
-}
-body h1 h2{
-font-family: 'Odibee Sans', cursive;
 }
 
 a,
@@ -19,8 +16,7 @@ a:hover {
 }
 
 h1, h2 {
-  /* Add font family here */
- font-family: "Georgia", sans-serif;
+  font-family: "Overpass";
 }
 
 img {
